@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "mongodb配合node.js进行增删查改操作",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "mongodb",
+    "node.js",
+    "增删查改"
+  ],
+  "author": "董书华",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8"
+  }
+}
